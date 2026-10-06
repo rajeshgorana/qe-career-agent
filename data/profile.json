@@ -1,25 +1,14 @@
 {
-  "name": "Rajesh",
-  "experience": "15+ years",
+  "name": "Rajesh Gorana",
+  "headline": "Senior Quality Engineering Manager",
+  "experience_years": 15,
+  "verified_source": "Resume_Rajesh_Senior_QE_Manager(2).pdf",
+  "summary": "Senior Quality Engineering leader with 15 years of experience driving QE transformation across retail, e-commerce and investment platforms. Expert in building automation-first QE practices for web, API and microservices environments using Playwright, Selenium, Rest Assured, Java and Python. Experienced in designing Agentic QE solutions for AI-assisted test generation, self-healing automation and intelligent failure analysis. Proven track record leading distributed teams of 15–20 engineers, defining QE strategy and KPIs, integrating CI/CD pipelines and delivering measurable improvements in test efficiency and defect reduction.",
   "roles": [
-    "Senior QE Manager",
+    "Senior Quality Engineering Manager",
     "QE Transformation Lead",
     "QE Architect / Test Architect",
     "AI / Agentic QE Lead"
-  ],
-  "skills": [
-    "Quality Engineering",
-    "Automation Strategy",
-    "Playwright",
-    "Selenium",
-    "API Testing",
-    "Microservices",
-    "CI/CD",
-    "Cloud",
-    "AI/GenAI",
-    "Agentic AI",
-    "Test Architecture",
-    "People Leadership"
   ],
   "locations": [
     "NCR/Noida/Gurugram",
@@ -27,5 +16,141 @@
     "Bengaluru",
     "Hyderabad",
     "Remote"
-  ]
+  ],
+  "skills": [
+    "Playwright Automation",
+    "Selenium WebDriver",
+    "Rest Assured",
+    "Python",
+    "Java",
+    "API Testing",
+    "Automation Testing",
+    "Agentic QE",
+    "Generative AI Tools",
+    "Azure DevOps",
+    "Jenkins",
+    "JIRA",
+    "Test Strategy",
+    "Test Management",
+    "Manual Testing",
+    "CI/CD",
+    "Microservices",
+    "SQL",
+    "Serenity BDD"
+  ],
+  "leadership": {
+    "team_size": "15–20 QA/QE engineers",
+    "responsibilities": [
+      "QE strategy",
+      "KPIs",
+      "hiring",
+      "performance management",
+      "onboarding",
+      "stakeholder management",
+      "cross-functional collaboration"
+    ]
+  },
+  "achievements": [
+    "Improved defect detection performance from 84% to 95%.",
+    "Reduced regression and functional validation effort by approximately 50–60%.",
+    "Reduced selected regression execution cycles from 45 hours to approximately 15 hours.",
+    "Reduced manual regression effort by 60% on the Ratings Analytical Platform through automation.",
+    "Reduced Fidelity regression execution time by 50% through Selenium and Jenkins automation.",
+    "Maintained zero critical production defects for multiple consecutive quarters on relevant delivery work.",
+    "Won Director's Award for quality work delivered on an Investment Platform project at Fidelity."
+  ],
+  "ai_agentic_qe": [
+    "Designed an AI-agent-driven quality engineering platform.",
+    "AI-assisted test case generation.",
+    "Self-healing UI automation.",
+    "Automated defect triage.",
+    "Intelligent failure analysis.",
+    "Agentic tooling integrated with Playwright."
+  ],
+  "experience": [
+    {
+      "company": "Adidas",
+      "period": "2022–Present",
+      "title": "Senior Quality Engineering Manager",
+      "domain": "Omnichannel Retail; Inventory & Order Promise; SAP S/4HANA transformation",
+      "evidence": [
+        "Led Quality Engineering across global product areas supporting Adidas' Omnichannel Retail ecosystem, covering Inventory & Order Promise platforms and multiple Scrum teams.",
+        "Defined and executed enterprise-wide QE strategy and KPIs.",
+        "Scaled automation coverage via Playwright and API-first initiatives.",
+        "Designed and drove adoption of an Agentic QE AI-agent-driven platform to automate test design, execution orchestration, intelligent failure analysis and self-healing.",
+        "Implemented API test automation using Rest Assured and BDD frameworks and enforced PR/code review standards.",
+        "Managed a horizontal team of 15–20 QA engineers.",
+        "Integrated CI/CD continuous testing pipelines for cloud-based microservices architecture.",
+        "Led end-to-end QE for Adidas's SAP S/4HANA transformation program using Selenium and Serenity BDD."
+      ]
+    },
+    {
+      "company": "Ness Digital Engineering",
+      "period": "2021–2022",
+      "title": "Senior Technical Staff Member",
+      "domain": "Ratings Analytical Platform / investment analytics",
+      "evidence": [
+        "Owned automation and quality engineering for the Ratings Analytical Platform.",
+        "Developed end-to-end automation using Selenium with Python and integrated solutions with Azure DevOps CI/CD pipelines.",
+        "Built API automation using Python Requests library.",
+        "Reduced manual regression effort by 60% through automation and introduced risk-based prioritization."
+      ]
+    },
+    {
+      "company": "Fidelity International",
+      "period": "2013–2021",
+      "title": "Senior Test Analyst / Test Lead",
+      "domain": "Investment, pensions, payments, regulatory compliance",
+      "evidence": [
+        "Directed automation and QA for GFAS and Deal Correction systems across investment and pensions domains.",
+        "Implemented Selenium-driven automation with Jenkins CI.",
+        "Acted as SME for deal correction workflows and GFAS, including SQL-based data validation and RCA-driven defect triage.",
+        "Conducted MiFID II regulatory-compliance testing and third-party integration testing.",
+        "Automated B2B Dealing & Payments via SWIFT and implemented SQL-based validations."
+      ]
+    },
+    {
+      "company": "TESCO HSC",
+      "period": "2010–2013",
+      "title": "Software Engineer QA Lead",
+      "domain": "International Grocery Home Shopping; Sterling OMS; TIBCO; payment providers",
+      "evidence": [
+        "Performed functional and automation testing for Tesco's International Grocery Home Shopping platform.",
+        "Developed and optimised regression suites using MS Test and Visual Studio.",
+        "Conducted functional, integration and compatibility testing across multi-country environments with distributed agile teams."
+      ]
+    }
+  ],
+  "projects": [
+    "Inventory & Platform Services",
+    "TRANS4RM",
+    "S&P Ratings Analytical Platform",
+    "B2B Dealing & Payments",
+    "Deal Correction & GFAS Optimization",
+    "MiFID II",
+    "Retail Pensions (GBST Composer)",
+    "International Grocery Home Shopping Platform",
+    "Enterprise Payment Service"
+  ],
+  "certifications": [
+    "Certified RPA Business Analyst"
+  ],
+  "education": "B.Tech / B.E. - Electronics and Communication Engineering (ECE), Ujjain Engineering College, 2010",
+  "governance": {
+    "never_invent": true,
+    "allowed_actions": [
+      "reorder verified evidence",
+      "rewrite for clarity",
+      "map verified skills to JD terminology",
+      "prioritize relevant achievements"
+    ],
+    "forbidden_actions": [
+      "invent employer experience",
+      "invent technologies",
+      "invent certifications",
+      "invent metrics",
+      "invent domain experience",
+      "claim years not supported by source"
+    ]
+  }
 }
