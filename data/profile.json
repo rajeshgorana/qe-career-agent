@@ -1,0 +1,31 @@
+{
+  "name": "Rajesh",
+  "experience": "15+ years",
+  "roles": [
+    "Senior QE Manager",
+    "QE Transformation Lead",
+    "QE Architect / Test Architect",
+    "AI / Agentic QE Lead"
+  ],
+  "skills": [
+    "Quality Engineering",
+    "Automation Strategy",
+    "Playwright",
+    "Selenium",
+    "API Testing",
+    "Microservices",
+    "CI/CD",
+    "Cloud",
+    "AI/GenAI",
+    "Agentic AI",
+    "Test Architecture",
+    "People Leadership"
+  ],
+  "locations": [
+    "NCR/Noida/Gurugram",
+    "Pune",
+    "Bengaluru",
+    "Hyderabad",
+    "Remote"
+  ]
+}

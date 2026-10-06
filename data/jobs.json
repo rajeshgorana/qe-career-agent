@@ -1,0 +1,47 @@
+[
+  {
+    "id": "zebra-001",
+    "company": "Zebra Technologies",
+    "title": "Senior Manager, Quality Engineering",
+    "location": "Bengaluru · Hybrid",
+    "description": "Lead quality engineering, automation strategy, GenAI and Agentic AI quality, microservices, CI/CD and people leadership.",
+    "status": "Ready for Approval",
+    "source": "Seeded"
+  },
+  {
+    "id": "infosys-001",
+    "company": "Infosys",
+    "title": "AI Quality Engineering Lead",
+    "location": "Bengaluru",
+    "description": "AI quality engineering leadership, automation, GenAI testing, API, microservices and CI/CD.",
+    "status": "Ready for Approval",
+    "source": "Seeded"
+  },
+  {
+    "id": "deloitte-001",
+    "company": "Deloitte",
+    "title": "Associate Director — Quality Engineering",
+    "location": "Pune",
+    "description": "QE transformation, automation testing, quality strategy, engineering leadership and delivery.",
+    "status": "Ready for Approval",
+    "source": "Seeded"
+  },
+  {
+    "id": "cap-001",
+    "company": "Capgemini",
+    "title": "QE Solution Architect / Pre-Sales Lead",
+    "location": "Gurugram / Noida",
+    "description": "QE solution architecture, automation, transformation, RFP/RFI and pre-sales.",
+    "status": "Shortlisted",
+    "source": "Seeded"
+  },
+  {
+    "id": "sample-001",
+    "company": "Example Corp",
+    "title": "Senior QA Automation Engineer",
+    "location": "Remote",
+    "description": "Senior automation engineering using Selenium, API testing and CI/CD.",
+    "status": "Watch",
+    "source": "Seeded"
+  }
+]
